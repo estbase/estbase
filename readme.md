@@ -1,6 +1,6 @@
 <p align="center">
 <a href="http://laravel.com"><img src="https://img.shields.io/badge/Laravel-5.7-orange.svg?style=flat-square" alt="Framework"></a>
-<a href="https://discord.gg/waVvjpJ"><img src="https://img.shields.io/discord/482086815554207764.svg?style=flat-square" alt="Discord"></a>
+<a href="https://discord.gg/waVvjpJ"><img src="https://img.shields.io/discord/482086815554207764.svg?style=flat-square?label=Discord" alt="Discord"></a>
 <a href="http://gplv3.fsf.org/"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square" alt="License"></a>
 </p>
 
