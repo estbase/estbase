@@ -31,7 +31,8 @@
             "database/factories"
         ],
         "psr-4": {
-            "App\\": "app/"
+            "App\\": "app/",
+            "estbase\\": "src/"
         }
     },
     "autoload-dev": {
